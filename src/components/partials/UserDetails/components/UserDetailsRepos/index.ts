@@ -1,0 +1,1 @@
+export { UserDetailsRepos } from './UserDetailsRepos';
